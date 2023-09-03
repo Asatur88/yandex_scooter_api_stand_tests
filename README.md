@@ -1,0 +1,1 @@
+# yandex_scooter_api_stand_tests
